@@ -4,7 +4,6 @@
     sti r1, %:defenses, %1
     sti r1, %:maykrtek, %1
     fork %:defenses
-    fork %:iwillnotdie
 
     ld %1, r2
     ld %5, r3
