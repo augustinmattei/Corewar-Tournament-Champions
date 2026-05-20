@@ -9,7 +9,7 @@
     fork    %:survive
 
 load_ammo:  live %666
-            ldi %167769600, %1, r15
+            ldi %252645135, %1, r15
             ldi %:canon1, %1, r2
             ldi %:canon2, %1, r3
             ldi %:canon3, %1, r4
